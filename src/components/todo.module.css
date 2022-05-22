@@ -1,0 +1,10 @@
+.todo{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding: 3px;
+
+}
+.striked{
+    text-decoration: line-through;
+}
